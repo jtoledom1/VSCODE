@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "βui - Material",
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editorAssociations": {
+        "*.pyc": "default"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.accessibilitySupport": "off"
+}
